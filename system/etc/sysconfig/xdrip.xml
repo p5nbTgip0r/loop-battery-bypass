@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <allow-in-power-save package="com.eveningoutpost.dexdrip" />
+    <allow-unthrottled-location package="com.eveningoutpost.dexdrip" />
+    <allow-in-data-usage-save package="com.eveningoutpost.dexdrip" />
+</config>
