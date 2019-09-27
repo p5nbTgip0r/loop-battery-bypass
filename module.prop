@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=loopbatterybypass
+name=Loop Battery Bypass
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=p5nbTgip0r
+description=Disables battery optimization (doze) fully for xDrip and AndroidAPS
